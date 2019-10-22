@@ -1,0 +1,103 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 2
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 3
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 4
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 5
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 6
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 7
+    },
+    {
+      "author": "Osmar",
+      "id": 8
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 9
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 10
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 11
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 12
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 13
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 14
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 15
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 16
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 17
+    },
+    {
+      "title": "Executeautomation",
+      "author": "Osmar",
+      "id": 18
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "app": "cd EACourseApp && npm install && npm start",
+    "api":"json-server --watch db.json",
+    "unitTest": "cd EACourseApp && npm run test"
+
+  },
+    "devDependencies": {
+        "cypress": "^3.4.1",
+        "cypress-cucumber-preprocessor": "^1.16.2",
+        "json-server": "^0.15.1"
+    },
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+    }
+}
